@@ -1,0 +1,52 @@
+html {
+  font-family: sans-serif;
+}
+.first{
+  color:#98b55f;
+  background: green;
+  font-family:sans-serif;
+  font-size:30px;
+  text-align:center;
+  font-weight:bold;
+  text-decoration:line-through;
+  border-style:dashed;
+  border-color:red;
+}
+.second{
+  background-color:#E74C3C;
+  color:#ECF0F1;
+  padding:5px;
+  border:2px solid#2C3E50;
+  margin:5px;
+  padding-right:10px;
+}
+.third{
+  background:blue;
+}
+.fourth{
+  color:blue;
+}
+.fifth:hover{
+  color:blue;
+}
+.fifth{
+  color:orange;
+}
+.fifth:active{
+  color:green;
+}
+.box-one{
+  background-color:#E74C3C;
+  color:#ECF0F1;
+  padding:5px;
+  border:2px solid#2C3E50;
+  margin:5px;
+  padding-right:10px;
+}
+.box-two{
+  background-color:blue;
+  color:yellow;
+  padding:10px;
+  border:5px solid#2C3E50;
+  margin:10px;
+}

@@ -3,4 +3,12 @@ html{
 }
 h2{
     color:pink;
+    text-align: center
+}
+.first{
+    text-align:center;
+}
+.second{
+    text-align:right;
+    
 }
