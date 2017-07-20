@@ -1,9 +1,19 @@
 html{
-    color:orange;
+    color:pink;
+    font-weight:bold;
+    background-image: url(http://image.17sucai.com/upload/32215/2013-11-22/4175c925a9b45e4f51993ec11156f0bb.jpg);
 }
 h1{
-    color:blue;
+    color:green;
 }
 h2{
     color:pink;
+    font-family: cursive;
+    font-size: 50px;
+}
+#add-new-todo-button{
+    font-size:20px;
+    text-align: center;
+    color:#FFFFFF;
+    background-color: #03A9F4;
 }
