@@ -1,7 +1,12 @@
 html{
-    color:pink;
+    color:orange;
     font-weight:bold;
-    background-image: url(http://image.17sucai.com/upload/32215/2013-11-22/4175c925a9b45e4f51993ec11156f0bb.jpg);
+    background-image: url(https://lh3.googleusercontent.com/U-av1a2JTdB02XHnT_nr7jiSkuyftNNIjNuD2_j1WfK0cI9YAF-8A2BCnBnqDTnBFMEReaeKMszdlkdkJUmxpiw=s0);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+body{
+    text-align: center;
 }
 h1{
     color:green;
@@ -16,4 +21,10 @@ h2{
     text-align: center;
     color:#FFFFFF;
     background-color: #03A9F4;
+}
+ol{
+    list-style-position: inside;
+    text-align:left;
+    font-size: 30px;
+    padding-left: 350px;
 }
